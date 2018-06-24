@@ -22,4 +22,4 @@ if ingredients.include?(cheese_types)
 else
   return nil
 end
-end 
+end
