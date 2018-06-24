@@ -21,5 +21,5 @@ if ingredients.include?(cheese_types)
   return (ingredients)
 else
   return nil
-end 
+end
 end 
