@@ -4,7 +4,7 @@ def roll_call_dwarves(dwarves)# code an argument here
     x = 1
     x += 1
     puts "#{x}. #{dwarves}"
-  
+
   end # Your code here
 end
 
