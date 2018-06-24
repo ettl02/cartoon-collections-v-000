@@ -3,7 +3,7 @@ def roll_call_dwarves(dwarves)# code an argument here
   dwarves.each do |list|
     x = 1
     x += 1
-    puts "#{x}. #{dwarves}"
+    puts "#{x}. #{name}"
 
   end # Your code here
 end
