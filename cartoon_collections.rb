@@ -1,6 +1,8 @@
+x = 1
 def roll_call_dwarves(dwarves)# code an argument here
   dwarves.each do |list|
-    puts dwarves
+    puts "#{x}. #{dwarves}"
+    x += 1
   end # Your code here
 end
 
